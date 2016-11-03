@@ -1,0 +1,7 @@
+[general]
+name=Project Versions
+description=Saves and restores project files.
+version=1.0
+qgisMinimumVersion=2.0
+author=Nathan Woodrow
+email=woodrow.nathan@gmail.com
